@@ -56,4 +56,7 @@ public class Services {
 		}
 		return p.newService();
 	}
+	public static void main(String[] args) {
+		System.out.println(newInstance("<def>"));
+	}
 }
