@@ -6,7 +6,7 @@
  *
 */
 
-package com.sample.chapter03.item14;
+package com.sample.chapter04.item14;
 /**
  * ClassName:Point
  * Function: TODO ADD FUNCTION.

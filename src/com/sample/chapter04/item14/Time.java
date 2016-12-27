@@ -6,7 +6,7 @@
  *
 */
 
-package com.sample.chapter03.item14;
+package com.sample.chapter04.item14;
 /**
  * @ClassName:Time
  * @Function: TODO ADD FUNCTION.

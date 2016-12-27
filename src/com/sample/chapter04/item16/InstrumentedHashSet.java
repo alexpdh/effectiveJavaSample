@@ -6,7 +6,7 @@
  *
 */
 
-package com.sample.chapter03.item16;
+package com.sample.chapter04.item16;
 
 import java.util.Arrays;
 import java.util.Collection;

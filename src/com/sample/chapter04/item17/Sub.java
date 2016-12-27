@@ -6,7 +6,7 @@
  *
 */
 
-package com.sample.chapter03.item17;
+package com.sample.chapter04.item17;
 
 import java.util.Date;
 
