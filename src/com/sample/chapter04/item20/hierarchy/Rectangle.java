@@ -9,7 +9,7 @@
 package com.sample.chapter04.item20.hierarchy;
 /**
  * @ClassName:Rectangle
- * @Function:  
+ * @Function: 矩形 
  * @version
  *
  * @author pengdh

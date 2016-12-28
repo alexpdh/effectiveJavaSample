@@ -10,7 +10,7 @@ package com.sample.chapter04.item20.hierarchy;
 
 /**
  * @ClassName:Circle
- * @Function:  
+ * @Function: 圆形
  * @version
  *
  * @author pengdh
