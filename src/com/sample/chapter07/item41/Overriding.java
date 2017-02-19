@@ -6,7 +6,7 @@
  *
 */
 
-package com.sample.chapter07.item40;
+package com.sample.chapter07.item41;
 /**
  * @ClassName:Wine
  * @Function:  
