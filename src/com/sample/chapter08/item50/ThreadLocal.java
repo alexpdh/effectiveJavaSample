@@ -6,7 +6,7 @@
  *
 */
 
-package com.sample.chapter07.item50;
+package com.sample.chapter08.item50;
 /**
  * @ClassName:ThreadLocal
  * @Function:  

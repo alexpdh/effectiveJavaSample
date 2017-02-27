@@ -6,7 +6,7 @@
  *
 */
 
-package com.sample.chapter07.item51;
+package com.sample.chapter08.item51;
 /**
  * @ClassName:StringConcatenation
  * @Function:  

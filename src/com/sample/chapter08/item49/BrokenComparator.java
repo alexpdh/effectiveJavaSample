@@ -6,7 +6,7 @@
  *
 */
 
-package com.sample.chapter07.item49;
+package com.sample.chapter08.item49;
 
 import java.util.Comparator;
 

@@ -6,7 +6,7 @@
  *
 */
 
-package com.sample.chapter07.item48;
+package com.sample.chapter08.item48;
 
 import java.math.BigDecimal;
 
